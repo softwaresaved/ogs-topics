@@ -21,4 +21,4 @@
 | 7     |                       | Has the user interface been designed with input from its eventual end-users? |
 | 8     |                       | Is there sufficient evidence that the software's dependencies (such as other third-party software and libraries) will be available for the anticipated lifetime of the software? |
 
-See [README.md](README.md) for instructions on adding a comment.
+See the repository [README.md](/README.md) for instructions on adding a comment.
