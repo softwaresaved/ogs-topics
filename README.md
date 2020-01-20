@@ -6,15 +6,16 @@ This repository aims to collect early feedback on draft questions designed to as
 
 ## Contributing a comment
 
-We are particularly interested in comments that address major gaps in the topic area, although the aim is to not to expand beyond 20 questions per topic. Please read [this blog post]() before you register any issues which provides more detail on the background and motivations for this activity.
+Please read [this blog post](https://software.ac.uk/blog/2020-01-20-software-design-just-20-questions) before you register any issues which provides more detail on the background and motivations for this activity. We are particularly interested in comments that address gaps in the topic.
 
 If you wish to take a look, see links to the questions sets below. If you'd like to leave a comment, feel free to [add an issue](https://github.com/softwaresaved/ogs-topics/issues) to this repository, and if you leave your full name your contribution as a reviewer will be credited.
 
-When registering a comment be sure to include:
+When registering a comment as an issue be sure to include:
 
- - The topic
- - Question number(s) if you're referring to specific comments
- - Your comment - ideally a paragraph or so
+ - In the issue title: the topic, and also question number(s) if you're referring to specific questions
+ - In the issue body:
+     - Your comment - ideally a paragraph or so with any links as needed
+     - Your full name if you wish to be credited as a reviewer
 
 ## Why are we doing this?
 
