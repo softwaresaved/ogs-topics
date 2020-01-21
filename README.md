@@ -19,7 +19,7 @@ When registering a comment as an issue be sure to include:
 
 ## Why are we doing this?
 
-The questions sets are intended for use by the Institute's Online Guidance Service, an automated service being developed by the Software Sustainability Institute to assist researchers seeking guidance on how to improve their research software. Read [this blog post]() for further details.
+The questions sets are intended for use by the Institute's Online Guidance Service, an automated service being developed by the Software Sustainability Institute to assist researchers seeking guidance on how to improve their research software. Read [this blog post](https://software.ac.uk/blog/2020-01-20-software-design-just-20-questions) for further details.
 
 ## Available questions for comment
 
