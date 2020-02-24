@@ -1,6 +1,6 @@
 ## Topic: Software Design
 
-*NB: a question can optionally be dependent on responses to previous questions, to ensure a line of questioning is only pursued if relevant. e.g. the in-depth questiona regarding documentation (questions 1.1-1.7) are only asked if the software's design is documented (question 1)*
+*NB: a question can optionally be dependent on responses to previous questions, to ensure a line of questioning is only pursued if relevant. e.g. the in-depth questions regarding documentation (questions 1.1-1.7) are only asked if the software's design is documented (question 1)*
 
 | No.   | Dependent question(s) | Question |
 | ----- | --------------------- | -------- |
